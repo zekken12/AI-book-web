@@ -1,0 +1,6 @@
+{
+  "name": "Librairie en Ligne",
+  "description": "Site vitrine et vente de livres en ligne avec base de données SQL de 30 chefs-d'œuvre littéraires, recherche, filtres et panier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
